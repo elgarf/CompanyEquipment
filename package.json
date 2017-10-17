@@ -1,0 +1,25 @@
+{
+  "name": "companyequipment",
+  "version": "1.0.0",
+  "description": "Company equipment app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elgarf/CompanyEquipment.git"
+  },
+  "author": "elgarf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elgarf/CompanyEquipment/issues"
+  },
+  "homepage": "https://github.com/elgarf/CompanyEquipment#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
